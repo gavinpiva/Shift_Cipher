@@ -1,6 +1,6 @@
-# Shift_Cipher
-Python implementation of a shift cipher
+# Substitution_Cipher
 
+This code implements a simple substitution cipher called the "Vigenere cipher" that uses a series of Caesar ciphers based on a keyword. Each letter in the message is shifted by a corresponding letter in the keyword, and the process is repeated for the length of the message.
 Encryption-Decryption Tool
 
 This is a simple encryption-decryption tool written in Python 3. It encrypts a message using a randomly generated key and decrypts the message using the same key.
